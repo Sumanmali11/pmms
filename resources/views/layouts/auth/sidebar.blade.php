@@ -1,0 +1,3 @@
+<div>
+    Auth Sidebar
+</div>
